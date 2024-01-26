@@ -1,4 +1,4 @@
-LeetCode solutions in C++ 11
+LeetCode solutions in C#
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
